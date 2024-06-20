@@ -1,0 +1,15 @@
+{
+	"Manufacturer": "Philips",
+	"ManufacturersModelName": "",
+	"AcquisitionNumber": 10,
+	"ProtocolName": "WIPTD_1SENSE4.2",
+	"PhilipsRescaleSlope": 2.53944,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 0.00117026,
+	"UsePhilipsFloatNotDisplayScaling": 1,
+	"EchoTime": 0.028,
+	"RepetitionTime": 2,
+	"PhaseEncodingLines": 80,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}
